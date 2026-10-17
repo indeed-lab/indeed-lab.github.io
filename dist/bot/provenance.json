@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/indeed-lab/indeed-bot",
+  "revision": "eea69df50b8de1d928aff30086b38671cd64aa62",
+  "entry": "engine.js",
+  "dirty": false,
+  "sha256": {
+    "engine.js": "fba4f45d84110182b5eb57525f7a56334ffe09d596b3e6cbad6ee873a7ba506f",
+    "THIRD_PARTY_NOTICES.txt": "b8a809ddbb3ea8e136c0a2f793691fa4af2b9ff43319ce303d83ed96cb781fd2",
+    "LICENSE": "956a239a48b3c8a8a425e2ffe3c69de0c08635d5adef8f2dbca24267d1990fa4"
+  }
+}
